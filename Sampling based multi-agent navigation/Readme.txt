@@ -1,3 +1,8 @@
+How to play the file: 
+
+1.Run simulator.py
+2.Change to different scenarios by changing '3_agents.csv' file in the code. 
+
 ============================================================|
 The parameters selected for the simulation scenarios are :  |	
 ============================================================|
