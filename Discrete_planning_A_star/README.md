@@ -1,6 +1,3 @@
-===================
-CODE IMPLEMENTATION:
-===================
 SETTING GLOBAL VARIABLES: 
 ------------------------
 In this section of the code we set all the global variables such as:
